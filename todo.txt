@@ -1,0 +1,16 @@
+
+
+
+
+
+Server:
+1. Create a REST service for the TODO list items
+2. <TODO List Item> {
+  id: string,
+  text: string,
+  done: Date | undefined
+}
+
+Client:
+1. Show top 10 TODO list
+2. Add "Load more" button to load more items
